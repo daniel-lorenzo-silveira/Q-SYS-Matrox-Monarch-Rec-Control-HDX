@@ -32,7 +32,9 @@ The plugin handles:
 
 For a complete step-by-step guide on installation and usage, click the image below to watch the tutorial on YouTube:
 
-[![Click to watch the tutorial on YouTube](tutorial_thumbnail.png)](https://youtu.be/OmUnig05Kg0)
+<a href="https://youtu.be/OmUnig05Kg0">
+    <img src="tutorial_thumbnail.png" alt="Click to watch the tutorial on YouTube" width="500"/>
+</a>
 
 ### 3. Configuration Properties
 

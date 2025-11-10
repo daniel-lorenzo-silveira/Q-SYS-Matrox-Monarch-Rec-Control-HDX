@@ -20,12 +20,20 @@ The plugin handles:
 * Matrox Monarch HDX encoder.
 * Network configuration allowing **HTTPS (Port 443)** communication between the Q-SYS Core and the Matrox unit.
 
+
+
 ### 2. Adding the Plugin to Q-SYS Designer
 
 1.  **Download** the `.qplug` file and copy it to the local plugins/extensions folder for Q-SYS Designer. Install the plugin by double-clicking the file.
 2.  In Q-SYS Designer, open the **Component Library**.
 3.  Locate **Plugins** and drag the **User Matrox Monarch Control** component onto your schematic.
-    
+
+## 📽️ Video Tutorial & Demonstration
+
+For a complete step-by-step guide on installation and usage, click the image below to watch the tutorial on YouTube:
+
+[![Click to watch the tutorial on YouTube](tutorial_thumbnail.png)](https://youtu.be/OmUnig05Kg0)
+
 ### 3. Configuration Properties
 
 After adding the plugin, configure the following properties in the component's **Properties** tab:

@@ -45,7 +45,7 @@ After adding the plugin, configure the following properties in the component's *
 | `HostIP` | String | IP Address of the Matrox encoder. | `192.168.1.100` |
 | `Username` | String | Username for Matrox authentication. | `admin` |
 | `Password` | String | Password for Matrox authentication. | `[YOUR_PASSWORD]` |
-| `PollingInterval` | Number | Time interval for status updates (in seconds). | `2.0` |
+| `PollingInterval` | Number | Time interval for status updates (integer in seconds). | `2` |
 
 ---
 

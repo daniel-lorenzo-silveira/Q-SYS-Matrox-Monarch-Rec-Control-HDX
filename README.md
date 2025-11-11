@@ -6,7 +6,7 @@ This plugin was developed to provide **centralized control and monitoring** of t
 
 The plugin handles:
 * **HTTPS/RESTful API** communication with the Matrox (including authentication).
-* Real-time status **Polling** si(Recording State, Operation Mode).
+* Real-time status **Polling** (Recording State, Operation Mode).
 * Bidirectional control (Start/Stop).
 * HTTP status feedback and handling of *timeout* or *retry* events.
 

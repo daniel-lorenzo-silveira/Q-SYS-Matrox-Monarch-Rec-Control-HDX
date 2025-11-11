@@ -2,11 +2,11 @@
 
 ##  Project Overview
 
-This plugin was developed to provide **centralized control and monitoring** of the **Matrox Monarch HDX** encoder within the Q-SYS audio and control ecosystem. The objective is to integrate the Matrox's recording and streaming functionality directly into the Q-SYS Designer interface, eliminating the need for complex network programming.
+This plugin was developed to provide **centralized control and monitoring** of the **Matrox Monarch HDX** encoder within the Q-SYS audio and control ecosystem. The objective is to integrate the Matrox's recording functionality directly into the Q-SYS Designer interface, eliminating the need for complex network programming.
 
 The plugin handles:
 * **HTTPS/RESTful API** communication with the Matrox (including authentication).
-* Real-time status **Polling** (Recording State, Operation Mode).
+* Real-time status **Polling** si(Recording State, Operation Mode).
 * Bidirectional control (Start/Stop).
 * HTTP status feedback and handling of *timeout* or *retry* events.
 
@@ -51,9 +51,9 @@ After adding the plugin, configure the following properties in the component's *
 
 ## 2. LICENSING AND CREDITS
 
-### 2.1. Intellectual Property (IP)
+### 2.1. Credits
 
-This plugin was developed by **Daniel Lorenzo Silveira Alves** during collaboration/internship activities for the **Superior Tribunal de Justiça (STJ)** (Brazilian Superior Court of Justice) within the Integrated Audio and Video Solutions Section (SAVID).
+This plugin was developed by **Daniel Lorenzo Silveira Alves** during collaboration/internship activities with idealization from **Bruno Mariani de Melo**. 
 
 ### 2.2. Public Use License (MIT)
 
@@ -61,7 +61,7 @@ To encourage community collaboration and reuse, this code is distributed under t
 
 The MIT License is permissive, allowing the use, modification, and redistribution of the code.
 
-> **Important:** The code is provided "as is," without any warranty. The STJ is not responsible for any damages or issues resulting from the use of this software by third parties.
+> **Important:** The code is provided "as is," without any warranty.
 
 ## 3. CONTRIBUTIONS
 
